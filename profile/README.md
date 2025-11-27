@@ -1,4 +1,6 @@
-## Hi there 👋. I'm Ri, the current owner of this organization named 'Aurora'. The goal is to create programs for financial applications of python
+## Hi there 👋. 
+
+I'm Ri, the current owner of this organization named 'Aurora'. The goal is to create programs for financial applications of python
 
 If you want to collaborate on this:
 - ri.uni.9.kr@gmail.com
